@@ -43,9 +43,9 @@ venv*/
 # Test / typecheck caches
 .pytest_cache/
 .mypy_cache/
- 
+  
 # ----------------
-# ML artifacts & datasets
+# ML artifacts & datasetsc 
 # ----------------
 # Large model weights and checkpoints (uncomment if you want to track some)
 # *.pt
